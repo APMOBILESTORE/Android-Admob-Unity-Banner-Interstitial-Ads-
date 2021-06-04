@@ -1,4 +1,4 @@
-# MyAdsSample
+# Android  Admob Unity  Banner Interstitial Ads Sample
 My Ads Sample<br>
 Admob and UnityAds<br>
 <br>
